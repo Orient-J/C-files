@@ -3,4 +3,4 @@ project(c__files)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(c__files exercise7.cpp)
+add_executable(c__files findingGravitationalForce.cpp)

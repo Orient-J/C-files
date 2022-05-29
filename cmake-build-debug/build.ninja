@@ -49,8 +49,8 @@ cmake_ninja_workdir = /media/kps/HDD/c++files/cmake-build-debug/
 
 build cmake_object_order_depends_target_c__files: phony || CMakeFiles/c__files.dir
 
-build CMakeFiles/c__files.dir/findingElectricForce.cpp.o: CXX_COMPILER__c__files_Debug /media/kps/HDD/c++files/findingElectricForce.cpp || cmake_object_order_depends_target_c__files
-  DEP_FILE = CMakeFiles/c__files.dir/findingElectricForce.cpp.o.d
+build CMakeFiles/c__files.dir/findingGravitationalForce.cpp.o: CXX_COMPILER__c__files_Debug /media/kps/HDD/c++files/findingGravitationalForce.cpp || cmake_object_order_depends_target_c__files
+  DEP_FILE = CMakeFiles/c__files.dir/findingGravitationalForce.cpp.o.d
   FLAGS = -g -std=gnu++14
   OBJECT_DIR = CMakeFiles/c__files.dir
   OBJECT_FILE_DIR = CMakeFiles/c__files.dir
@@ -63,7 +63,7 @@ build CMakeFiles/c__files.dir/findingElectricForce.cpp.o: CXX_COMPILER__c__files
 #############################################
 # Link the executable c__files
 
-build c__files: CXX_EXECUTABLE_LINKER__c__files_Debug CMakeFiles/c__files.dir/findingElectricForce.cpp.o
+build c__files: CXX_EXECUTABLE_LINKER__c__files_Debug CMakeFiles/c__files.dir/findingGravitationalForce.cpp.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/c__files.dir
   POST_BUILD = :

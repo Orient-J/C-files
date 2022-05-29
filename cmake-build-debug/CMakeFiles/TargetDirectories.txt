@@ -1,0 +1,3 @@
+/media/kps/HDD/c++files/cmake-build-debug/CMakeFiles/c__files.dir
+/media/kps/HDD/c++files/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/kps/HDD/c++files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
